@@ -1,0 +1,231 @@
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('/fonts/centurygothic.eot');
+    src: url('/fonts/centurygothic.eot?#iefix') format('embedded-opentype'), url('/fonts/centurygothic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    display: table;
+    color: #fff;
+    font-family: 'Century Gothic', Arial, Helvetica, sans-serif;
+    background-color: #1E689B;
+}
+
+.alert-small {
+    padding: 0 15px;
+    border-radius: 0;
+}
+
+.alert-dark {
+    background-color: #333;
+    border-color: #292929;
+    color: #d0d0d0;
+}
+
+.navbar .alert {
+    margin: 0;
+}
+
+.centered {
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.content {
+    text-align: center;
+    display: inline-block;
+}
+
+.brand {
+    display: none;
+}
+
+.brand img {
+    width: 80%;
+}
+
+.error {
+    font-size: 80px;
+    font-weight: bold;
+    text-shadow: 0 1px 5px rgba(0, 0, 0,
+.2);
+}
+
+.info {
+    font-size: 36px;
+}
+
+.navbar {
+    background-color: #1b5d8b;
+    border-color: #15476a;
+}
+
+.navbar-default .navbar-brand {
+    background: url('/images/logo-48.png') no-repeat left center;
+    background-size: 36px;
+    padding-left: 40px;
+    margin-left: 4px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-right: 5px;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-brand:active {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > li > a:hover {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+    border: 1px solid transparent;
+    border-top: 0;
+    border-bottom: 0;
+}
+
+.navbar-default li a {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.navbar-default .navbar-nav > .active > a {
+    color: #fff;
+    background-color: #f69330;
+}
+
+.navbar-default .navbar-toggle {
+    background-color: #15476a;
+    border-color: #15476a;
+}
+
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+    border-color: #15476a;
+}
+
+.navbar-default .navbar-toggle:focus,
+.navbar-default .navbar-toggle:hover {
+    background-color: #1e689b;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ddd;
+}
+
+.navbar-default .navbar-toggle:hover .icon-bar,
+.navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:focus,
+.navbar-default .navbar-nav > .open > a:hover {
+    color: #fff;
+    background-color: #1b4357;
+    border-color: #163748;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:focus,
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
+    color: #fff;
+    background-color: #163748;
+}
+
+.navbar-default .dropdown-menu {
+    background-color: #1b4357;
+    border-color: #163748;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:focus,
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {}
+
+.navbar-default .dropdown-menu a {
+    text-transform: uppercase;
+    font-size: 16px;
+    padding: 10px 15px;
+}
+
+.navbar-default .dropdown-header {
+    font-size: 14px;
+    color: #ddd;
+}
+
+.navbar-default .dropdown-header a {
+    font-size: 14px;
+    padding: 5px 10px;
+}
+
+
+.navbar-default .dropdown-menu > li > a:focus,
+.navbar-default .dropdown-menu > li > a:hover {
+    color: #fff;
+    background-color: #163748;
+}
+
+.navbar-default .dropdown-menu .divider {
+    background-color: #163748;
+}
+
+.navbar-nav > li > a.profile-image,
+.navbar-nav > li.lang > a {
+    padding-top: 9px;
+    padding-bottom: 9px;
+}
+
+.navbar-nav > li > a.profile-image img {
+    border-radius: 50%;
+}
+
+@media (min-width: 768px) {
+    .brand img {
+        width: 30%
+    }
+
+    .error {
+        font-size: 120px;
+    }
+
+    .info {
+        font-size: 72px;
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        color: #ccc;
+    }
+
+    .navbar .dropdown-menu {
+        min-width: 0;
+        width: 100%;
+    }
+
+    .lang .dropdown-menu a {
+        padding: 10px 15px;
+    }
+
+    .lang a span {
+        display: none;
+    }
+}

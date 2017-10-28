@@ -1,0 +1,88 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+
+/*
+  ========================================
+  Schedule
+  ========================================
+*/
+
+#tabela{
+    margin-top: 40px;
+}
+
+table {
+    margin-top: 10px;
+    padding-top: 20px;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #ffffff;
+    width: 100%;
+    padding-bottom: 20px;
+}
+table:last-child {
+  margin-bottom: 0;
+}
+th,
+td {
+  padding-bottom: 22px;
+  vertical-align: top;
+}
+th {
+  padding-right: 45px;
+  text-align: right;
+  width: 20%;
+}
+td {
+  width: 40%;
+}
+thead {
+  line-height: 44px;
+}
+thead th {
+  color: #648880;
+  font-size: 26px;
+}
+tbody th {
+  color: #a9b2b9;
+  font-size: 16px;
+  font-weight: 400;
+  padding-top: 22px;
+  text-transform: uppercase;
+}
+tbody td {
+  border-top: 1px solid #dfe2e5;
+  padding-top: 21px;
+}
+tbody td:first-of-type {
+  padding-right: 15px;
+}
+tbody td:last-of-type {
+  padding-left: 15px;
+}
+tbody td:only-of-type {
+  padding-left: 0;
+  padding-right: 0;
+}
+table a {
+  color: #888;
+}
+table h4 {
+  margin-bottom: 0;
+}
+.schedule-offset {
+  color: #a9b2b9;
+}
+
+#especial{
+    padding-top: 20px;
+    font-size: 20px;
+    color: #888;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #FFFF10;
+    height: 80px;
+    text-transform: uppercase;
+}

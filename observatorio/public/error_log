@@ -1,0 +1,74 @@
+[11-Jul-2016 23:57:07 UTC] PHP Warning:  require(/home/diogeneslaertius/obdjuv_prod/observatorio/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/diogeneslaertius/obdjuv_prod/observatorio/bootstrap/autoload.php on line 17
+[11-Jul-2016 23:57:07 UTC] PHP Fatal error:  require(): Failed opening required '/home/diogeneslaertius/obdjuv_prod/observatorio/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/diogeneslaertius/obdjuv_prod/observatorio/bootstrap/autoload.php on line 17
+[11-Jul-2016 23:57:11 UTC] PHP Warning:  require(/home/diogeneslaertius/obdjuv_prod/observatorio/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/diogeneslaertius/obdjuv_prod/observatorio/bootstrap/autoload.php on line 17
+[11-Jul-2016 23:57:11 UTC] PHP Fatal error:  require(): Failed opening required '/home/diogeneslaertius/obdjuv_prod/observatorio/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/diogeneslaertius/obdjuv_prod/observatorio/bootstrap/autoload.php on line 17
+[12-Jul-2016 02:58:50 UTC] PHP Fatal error:  Class 'observatorio\Publicacao' not found in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Http/Controllers/HomeController.php on line 23
+[12-Jul-2016 02:59:00 UTC] PHP Fatal error:  Class 'observatorio\Publicacao' not found in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Http/Controllers/HomeController.php on line 23
+[12-Jul-2016 13:11:20 UTC] PHP Fatal error:  Call to a member function width() on a non-object in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 53
+[12-Jul-2016 13:12:52 UTC] PHP Fatal error:  Call to a member function width() on a non-object in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 53
+[12-Jul-2016 13:20:38 UTC] PHP Fatal error:  Call to a member function width() on a non-object in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 53
+[12-Jul-2016 17:18:05 UTC] PHP Fatal error:  Call to a member function width() on a non-object in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 53
+[12-Jul-2016 18:03:12 UTC] PHP Fatal error:  Call to a member function width() on a non-object in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 53
+[15-Jul-2016 14:27:29 UTC] PHP Fatal error:  Call to a member function width() on a non-object in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 53
+[15-Jul-2016 21:47:17 UTC] PHP Fatal error:  Call to a member function width() on a non-object in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 53
+[15-Jul-2016 21:47:38 UTC] PHP Fatal error:  Call to a member function width() on a non-object in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 53
+[12-Aug-2016 18:57:51 UTC] PHP Fatal error:  Call to a member function width() on a non-object in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Publicacao.php on line 150
+[12-Aug-2016 18:58:46 UTC] PHP Fatal error:  Call to a member function width() on a non-object in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Publicacao.php on line 150
+[07-Sep-2016 15:50:13 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Publicacao.php on line 150
+[07-Sep-2016 16:22:10 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Publicacao.php on line 150
+[08-Sep-2016 21:07:38 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Publicacao.php on line 150
+[21-Sep-2016 17:17:25 UTC] PHP Fatal error:  Call to a member function encode() on null in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Http/Controllers/PublicacaoController.php on line 107
+[21-Sep-2016 17:18:26 UTC] PHP Fatal error:  Call to a member function encode() on null in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Http/Controllers/PublicacaoController.php on line 107
+[21-Sep-2016 17:18:31 UTC] PHP Fatal error:  Call to a member function encode() on null in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Http/Controllers/PublicacaoController.php on line 107
+[24-Oct-2016 23:44:01 UTC] PHP Fatal error:  Class 'CallMeNP\LaraAuthBridge\LaraAuthBridgeServiceProvider' not found in /home/diogeneslaertius/obdjuv_prod/observatorio/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[24-Oct-2016 23:45:40 UTC] PHP Fatal error:  Class 'CallMeNP\LaraAuthBridge\LaraAuthBridgeServiceProvider' not found in /home/diogeneslaertius/obdjuv_prod/observatorio/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[27-Oct-2016 23:57:44 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 69
+[29-Oct-2016 14:56:20 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 69
+[29-Oct-2016 14:56:38 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 69
+[29-Oct-2016 14:57:02 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 69
+[08-Nov-2016 17:58:48 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[08-Nov-2016 18:00:06 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[11-Nov-2016 23:12:29 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[14-Nov-2016 17:05:59 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[14-Nov-2016 17:06:28 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[22-Nov-2016 23:41:29 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[26-Nov-2016 05:30:14 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[26-Nov-2016 05:30:36 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[26-Nov-2016 05:31:05 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[26-Nov-2016 05:33:42 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[15-Dec-2016 23:21:37 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[15-Dec-2016 23:21:51 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[15-Dec-2016 23:23:07 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[15-Dec-2016 23:23:17 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[16-Dec-2016 00:04:36 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[16-Dec-2016 00:05:08 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[04-Jan-2017 14:19:50 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[10-Jan-2017 17:18:30 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[10-Jan-2017 18:11:17 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[10-Jan-2017 18:13:11 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[10-Jan-2017 18:13:39 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[10-Jan-2017 18:14:50 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[10-Jan-2017 18:15:40 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[14-Jan-2017 06:40:21 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[14-Jan-2017 06:40:52 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[14-Jan-2017 06:40:52 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[02-Feb-2017 19:19:43 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[02-Feb-2017 19:20:31 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[02-Feb-2017 19:20:50 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[06-Feb-2017 20:32:52 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/diogeneslaertius/obdjuv_prod/observatorio/storage/framework/views/f40b69fb5c2d2bd36e2277d6523cb320586e7c18.php on line 61
+[07-Feb-2017 20:24:48 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[07-Feb-2017 20:24:56 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[18-Feb-2017 06:24:45 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[25-Feb-2017 23:22:12 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[25-Feb-2017 23:22:24 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[25-Feb-2017 23:24:24 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[25-Feb-2017 23:24:51 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[25-Feb-2017 23:26:08 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[09-Apr-2017 23:28:05 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[09-Apr-2017 23:28:20 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[19-Jun-2017 15:35:23 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[19-Jun-2017 15:35:50 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[19-Jun-2017 15:37:00 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[19-Jun-2017 15:38:08 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[19-Jun-2017 19:25:59 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75
+[04-Jul-2017 18:27:03 UTC] PHP Fatal error:  Call to a member function width() on string in /home/diogeneslaertius/obdjuv_prod/observatorio/app/Models/Usuario.php on line 75

@@ -1,0 +1,5 @@
+[04-Nov-2016 03:31:48 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/diogeneslaertius/obdjuv_prod/observatorio/public/forum/ext/laravel/bridgebb/auth/provider/bridgebb.php on line 39
+[04-Nov-2016 03:53:28 UTC] PHP Fatal error:  Call to a member function sql_query() on null in /home/diogeneslaertius/obdjuv_prod/observatorio/public/forum/ext/laravel/bridgebb/auth/provider/bridgebb.php on line 233
+[04-Nov-2016 03:53:40 UTC] PHP Fatal error:  Call to a member function sql_query() on null in /home/diogeneslaertius/obdjuv_prod/observatorio/public/forum/ext/laravel/bridgebb/auth/provider/bridgebb.php on line 233
+[04-Nov-2016 05:00:42 UTC] PHP Fatal error:  Call to undefined function laravel\bridgebb\auth\provider\_getUserByUsername() in /home/diogeneslaertius/obdjuv_prod/observatorio/public/forum/ext/laravel/bridgebb/auth/provider/bridgebb.php on line 40
+[04-Nov-2016 05:06:04 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/diogeneslaertius/obdjuv_prod/observatorio/public/forum/ext/laravel/bridgebb/auth/provider/bridgebb.php on line 40

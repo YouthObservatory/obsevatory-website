@@ -1,0 +1,9 @@
+/vendor
+!/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+.idea/
+*.old
+*.lock

@@ -1,0 +1,4 @@
+<?php exit; ?>
+1513515081
+912
+a:6:{s:13:"_allowed_post";a:4:{s:3:"gif";i:0;s:3:"png";i:0;s:4:"jpeg";i:0;s:3:"jpg";i:0;}s:11:"_allowed_pm";a:0:{}s:3:"gif";a:7:{s:11:"display_cat";i:1;s:13:"download_mode";i:1;s:11:"upload_icon";s:0:"";s:12:"max_filesize";i:0;s:11:"allow_group";s:1:"1";s:11:"allow_in_pm";s:1:"0";s:10:"group_name";s:6:"IMAGES";}s:3:"png";a:7:{s:11:"display_cat";i:1;s:13:"download_mode";i:1;s:11:"upload_icon";s:0:"";s:12:"max_filesize";i:0;s:11:"allow_group";s:1:"1";s:11:"allow_in_pm";s:1:"0";s:10:"group_name";s:6:"IMAGES";}s:4:"jpeg";a:7:{s:11:"display_cat";i:1;s:13:"download_mode";i:1;s:11:"upload_icon";s:0:"";s:12:"max_filesize";i:0;s:11:"allow_group";s:1:"1";s:11:"allow_in_pm";s:1:"0";s:10:"group_name";s:6:"IMAGES";}s:3:"jpg";a:7:{s:11:"display_cat";i:1;s:13:"download_mode";i:1;s:11:"upload_icon";s:0:"";s:12:"max_filesize";i:0;s:11:"allow_group";s:1:"1";s:11:"allow_in_pm";s:1:"0";s:10:"group_name";s:6:"IMAGES";}}
